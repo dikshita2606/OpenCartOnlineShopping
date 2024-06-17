@@ -1,0 +1,7 @@
+2024-04-28 23:57:30,479 [main] INFO testBase.BaseClass - ********* Starting TC_001_AccountRegistrationTest ********
+2024-04-28 23:57:34,482 [main] INFO testBase.BaseClass - First Name set
+2024-04-28 23:57:34,651 [main] INFO testBase.BaseClass - Last Name set
+2024-04-28 23:57:34,847 [main] INFO testBase.BaseClass - Email set
+2024-04-28 23:57:35,120 [main] INFO testBase.BaseClass - Password set
+2024-04-28 23:57:39,832 [main] INFO testBase.BaseClass - Continue btn clicked
+2024-04-28 23:57:39,916 [main] INFO testBase.BaseClass - Msg validated

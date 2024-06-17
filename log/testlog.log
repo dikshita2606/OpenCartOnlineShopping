@@ -1,0 +1,7 @@
+2024-04-28 23:57:30,479 - testBase.BaseClass -INFO - ********* Starting TC_001_AccountRegistrationTest ********
+2024-04-28 23:57:34,482 - testBase.BaseClass -INFO - First Name set
+2024-04-28 23:57:34,651 - testBase.BaseClass -INFO - Last Name set
+2024-04-28 23:57:34,847 - testBase.BaseClass -INFO - Email set
+2024-04-28 23:57:35,120 - testBase.BaseClass -INFO - Password set
+2024-04-28 23:57:39,832 - testBase.BaseClass -INFO - Continue btn clicked
+2024-04-28 23:57:39,916 - testBase.BaseClass -INFO - Msg validated
